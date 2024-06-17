@@ -1,7 +1,7 @@
-# Descrição do exercício
+## Descrição do exercício
 Neste exercício, deveríamos: criar um código para testar a inserção de dois comentários e utilizar o atributo data-testid.
 
-# Descrição do conteúdo do módulo
+## Descrição do conteúdo do módulo
 Durante este módulo, nós:
 - conceitamos teste unitário;
 - definimos teste integrado;
